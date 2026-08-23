@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carta als reis 2027</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="style.css">
+    <link rel="website icon" type="jpg" href="img/icon.jpg">
+</head>
+
+<body id="body">
+    <div class="content"></div>
+    <div class="add"><i class="fas fa-circle-plus"></i></div>
+    <form action="add-product.php" method="post" enctype="multipart/form-data" class="form in-form">
+        <i class="fas fa-circle-xmark"></i>
+        <h3 class="in-form">Afegir producte</h3>
+        <input type="text" name="name" class="in-form" id="name" placeholder="Nom">
+        <input type="text" name="description" class="in-form" id="description" placeholder="Descripció">
+        <input type="text" name="price" class="in-form" id="price" placeholder="Preu">
+        <input type="text" name="url" class="in-form" id="url" placeholder="Url">
+        <input type="file" name="img" class="in-form" id="img" accept="image/*" placeholder="Imatge">
+        <img id="preview" src="" class="in-form" alt="Preview">
+        <input type="text" name="pq" class="in-form" id="pq" placeholder="Motiu">
+        <button type="submit" class="in-form">Afegir producte</button>
+    </form>
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1",
+        "name": "Cadira Ergonòmica",
+        "description": "Cadira Escriptori Ergonomica Ajustable amb Reposabraços Beix.",
+        "price": "46,99",
+        "url": "https:\/\/www.amazon.es\/gp\/product\/B0G6X6NP4X\/ref=ox_sc_act_image_1?smid=ABU9ZGHA5QJIH&th=1",
+        "img": "img\/img-1.jpg",
+        "pq": "Per no agafar dolor d'esquena o de coll al estar asegut en el escriptori,"
+    },
+    {
+        "id": "2",
+        "name": "Hot Wheel Rick i Morty",
+        "description": "Hot-Wheels HW – GJR47 – Maqueta de Nau Espacial de Rick y Morty.",
+        "price": "14,55",
+        "url": "https:\/\/www.amazon.es\/dp\/B086G68871?ref=cm_sw_r_cso_wa_apan_dp_TQTAPQ4N9PSXCVYJKZVJ&ref_=cm_sw_r_cso_wa_apan_dp_TQTAPQ4N9PSXCVYJKZVJ&social_share=cm_sw_r_cso_wa_apan_dp_TQTAPQ4N9PSXCVYJKZVJ",
+        "img": "img\/img-2.jpg",
+        "pq": "Decoració\/Caprici."
+    },
+    {
+        "id": "3",
+        "name": "Bitty Pop! Simpson",
+        "description": "Funko Bitty Pop! Town: The Simpsons - Bart Simpson & Kwik-E-Mart.",
+        "price": "9,00",
+        "url": "https:\/\/www.amazon.es\/dp\/B0CQS16CK2?ref=cm_sw_r_cso_wa_apan_dp_HC4PTGR8ADGHD1JJYJYX&ref_=cm_sw_r_cso_wa_apan_dp_HC4PTGR8ADGHD1JJYJYX&social_share=cm_sw_r_cso_wa_apan_dp_HC4PTGR8ADGHD1JJYJYX&th=1",
+        "img": "img\/img-3.jpg",
+        "pq": "Decoració\/Caprici."
+    },
+    {
+        "id": "4",
+        "name": "Llum Simpsons Escritori",
+        "description": "Llum d'escriptori en forma de la TV dels Simpsons.",
+        "price": "37,99",
+        "url": "https:\/\/www.amazon.es\/dp\/B0FXH5ZPHN?ref=cm_sw_r_cso_wa_apan_dp_G398KB0VMZXW51DMBTZZ&ref_=cm_sw_r_cso_wa_apan_dp_G398KB0VMZXW51DMBTZZ&social_share=cm_sw_r_cso_wa_apan_dp_G398KB0VMZXW51DMBTZZ&th=1",
+        "img": "img\/img-4.jpg",
+        "pq": "Decoració\/Caprici i per tenir una llum en l'escriptori."
+    },
+    {
+        "id": "5",
+        "name": "Poster interestellar",
+        "description": "Poster interestellar 60 x 90 cm.",
+        "price": "35,09",
+        "url": "https:\/\/www.amazon.es\/dp\/B0FFH7TMBR?ref=cm_sw_r_cso_wa_apan_dp_TKE7SA4GS7CJYHD2KV2K&ref_=cm_sw_r_cso_wa_apan_dp_TKE7SA4GS7CJYHD2KV2K&social_share=cm_sw_r_cso_wa_apan_dp_TKE7SA4GS7CJYHD2KV2K&th=1",
+        "img": "img\/img-5.jpg",
+        "pq": "Decoració\/Caprici."
+    },
+    {
+        "id": "6",
+        "name": "Puzzle 3D de fusta",
+        "description": "Puzzle 3D de trsnbordador espacial, maqueta de fusta.",
+        "price": "59,95",
+        "url": "https:\/\/www.amazon.es\/dp\/B0FKM2KNNM?ref=cm_sw_r_cso_wa_apan_dp_LIGHTSABERFT4Q4EM4TD&ref_=cm_sw_r_cso_wa_apan_dp_LIGHTSABERFT4Q4EM4TD&social_share=cm_sw_r_cso_wa_apan_dp_LIGHTSABERFT4Q4EM4TD",
+        "img": "img\/img-6.jpg",
+        "pq": "Decoració\/Caprici i per entretenir-me un temps."
+    },
+    {
+        "id": "7",
+        "name": "Plantas Artificials",
+        "description": "Pack de 8 mini plantes artificials decoratives.",
+        "price": "19,99",
+        "url": "https:\/\/www.amazon.es\/dp\/B09PQGJ6B7?ref=cm_sw_r_cso_wa_apan_dp_ZMEAZVK5BFZ1N2VT7M07&ref_=cm_sw_r_cso_wa_apan_dp_ZMEAZVK5BFZ1N2VT7M07&social_share=cm_sw_r_cso_wa_apan_dp_ZMEAZVK5BFZ1N2VT7M07",
+        "img": "img\/img-7.jpg",
+        "pq": "Decoració"
+    },
+    {
+        "id": "8",
+        "name": "Rellotge digital",
+        "description": "Rellotge digital d'escritori.",
+        "price": "11,99",
+        "url": "https:\/\/www.amazon.es\/dp\/B0DHRXGLFK?ref=cm_sw_r_cso_wa_apan_dp_YYAG9CMHW02EKK8BFWKM&ref_=cm_sw_r_cso_wa_apan_dp_YYAG9CMHW02EKK8BFWKM&social_share=cm_sw_r_cso_wa_apan_dp_YYAG9CMHW02EKK8BFWKM&th=1",
+        "img": "img\/img-8.jpg",
+        "pq": "Per saber l'hora ràpidament quan estigui al escriptori."
+    },
+    {
+        "id": "9",
+        "name": "Teclat i ratolí",
+        "description": "Mars Gaming MCPWTKL, Espanyol, Combo Gaming Inalàmbric, Teclat i Ratolí + Alfombrilla Antideslizante.",
+        "price": "28,99",
+        "url": "https:\/\/www.amazon.es\/dp\/B0FM8B1K3H?ref=cm_sw_r_cso_wa_apan_dp_E7GFDYMECJ0TDKAX80JP_1&ref_=cm_sw_r_cso_wa_apan_dp_E7GFDYMECJ0TDKAX80JP_1&social_share=cm_sw_r_cso_wa_apan_dp_E7GFDYMECJ0TDKAX80JP_1&th=1",
+        "img": "img\/img-9.jpg",
+        "pq": "Per a la pantalla de l'escriptori, per poder-lo fer servir més còmodement. Caprici."
+    },
+    {
+        "id": "10",
+        "name": "Pantalla 27 polsades",
+        "description": "Pantalla 27 polsades 120Hz, FHD 1080P, compatible amb HDMI, DP, VGA, VESA.",
+        "price": "89,00",
+        "url": "https:\/\/www.amazon.es\/dp\/B0DZ5W17HN?ref=cm_sw_r_cso_wa_apan_dp_Q30NSGTPNY228KVNN7GV&ref_=cm_sw_r_cso_wa_apan_dp_Q30NSGTPNY228KVNN7GV&social_share=cm_sw_r_cso_wa_apan_dp_Q30NSGTPNY228KVNN7GV&th=1",
+        "img": "img\/img-10.jpg",
+        "pq": "Per fer la pantalla del portàtil més gran. Caprici."
+    },
+    {
+        "id": "11",
+        "name": "Soport elevador per a pantalla",
+        "description": "Soport elevador per a pantalla amb espai per a portatil i teclat + ratolí",
+        "price": "23,18",
+        "url": "https:\/\/www.amazon.es\/dp\/B0GVXTR2L8?ref=cm_sw_r_cso_wa_apan_dp_DXA9DXWVX91254GFJ0R9&ref_=cm_sw_r_cso_wa_apan_dp_DXA9DXWVX91254GFJ0R9&social_share=cm_sw_r_cso_wa_apan_dp_DXA9DXWVX91254GFJ0R9&th=1",
+        "img": "img\/img-11.jpg",
+        "pq": "En cas de tenir la pantalla, per elevar-la i no tenir mal de coll."
+    },
+    {
+        "id": 12,
+        "name": "Barra de soroll",
+        "description": "Barra de soroll GXTrust blanca per a l'ordinador",
+        "price": "39,99",
+        "img": "img\/img-12.jpg",
+        "pq": "Caprici, per poder escoltar millor l'ordinador.",
+        "url": "https:\/\/www.amazon.es\/Trust-Gaming-Iluminaci%C3%B3n-Altavoces-Alimentaci%C3%B3n\/dp\/B0FH252S5P\/?_encoding=UTF8&pd_rd_w=E9NpO&content-id=amzn1.sym.fb082bbf-62df-41cf-8781-48f664b05893&pf_rd_p=fb082bbf-62df-41cf-8781-48f664b05893&pf_rd_r=YXW6NJ1TQ4CJ0GKKM4R6&pd_rd_wg=wQYU0&pd_rd_r=5d430474-7e29-4195-837c-4c2dff0e2332&ref_=pd_hp_d_r_atf_dealz_wd_cs&th=1"
+    }
+]
