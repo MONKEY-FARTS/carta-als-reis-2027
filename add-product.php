@@ -54,7 +54,6 @@ file_put_contents(
 );
 
 include "generar.php";
-// echo "Producte afegit correctament.";
 header("Location: index.html");
 exit();
 
