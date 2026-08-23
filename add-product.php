@@ -54,7 +54,7 @@ file_put_contents(
 );
 
 include "generar.php";
-header("Location: index.php");
+header("Location: index.html");
 exit();
 
 
