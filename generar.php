@@ -78,6 +78,6 @@ HTML;
     );
 }
 
-echo "Fitxers creats correctament.";
+// echo "Fitxers creats correctament.";
 
 ?>
