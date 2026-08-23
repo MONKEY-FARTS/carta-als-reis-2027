@@ -1,0 +1,213 @@
+@font-face {
+    font-family: "Chillax";
+    src: url("Chillax_Complete/Fonts/OTF/Chillax-Regular.otf") format("opentype");
+    font-display: swap;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Chillax", sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    padding: 2rem;
+    background-image: url("img/bg.avif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+.general {
+    width: 100%;
+    min-height: calc(100vh - 4rem);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 3rem;
+    padding: 3rem;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 25px;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+    color: #fff;
+}
+
+.description {
+    max-width: 900px;
+}
+
+.description h1 {
+    margin-bottom: 1rem;
+    font-size: clamp(3rem, 7vw, 5.5rem);
+    line-height: 1.05;
+}
+
+.description h2 {
+    margin-bottom: 1rem;
+    font-size: clamp(2rem, 4vw, 3rem);
+    line-height: 1.1;
+}
+
+.description p {
+    font-size: clamp(1.2rem, 2.5vw, 2rem);
+    line-height: 1.5;
+}
+
+.button {
+    display: flex;
+    gap: 2em;
+}
+
+.buy {
+    padding: 1em;
+    border-radius: 15px;
+    font-size: 1.5em;
+    cursor: pointer;
+    border: none;
+    background-color: #ffdd00;
+    transition: transform .2s ease;
+    width: 100%;
+}
+
+.pq {
+    border-radius: 50%;
+    font-size: 1.5em;
+    width: 4em;
+    cursor: pointer;
+    border: none;
+    background-color: #ffdd00;
+}
+
+.fa-house {
+    font-size: 3em;
+    cursor: pointer;
+    position: absolute;
+    top: 5%;
+    left: 94%;
+    transition: transform .2s ease;
+}
+
+.fa-house:hover {
+    transform: scale(1.1);
+}
+
+.buy:hover {
+    transform: scale(1.05);
+}
+
+.why {
+    display: none;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 25px;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+    font-size: 2em;
+    padding: 1em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 1rem;
+    }
+
+    .general {
+        min-height: calc(100vh - 2rem);
+        padding: 2rem 1.5rem;
+        flex-direction: column;
+        justify-content: center;
+        gap: 2rem;
+    }
+
+    .description {
+        width: 100%;
+    }
+
+    .description h1 {
+        font-size: 3rem;
+    }
+
+    .description p {
+        font-size: 1.2rem;
+    }
+
+    .button {
+        width: 100%;
+    }
+
+    .fa-house {
+        top: 2rem;
+        left: auto;
+        right: 2rem;
+    }
+
+    .imagen img {
+        height: 300px;
+    }
+
+    .pq {
+        width: 5.5em;
+    }
+}
+
+@media (max-width: 1030px) {
+    body {
+        padding: 1rem;
+    }
+
+    .general {
+        min-height: calc(100vh - 2rem);
+        padding: 2rem 1.5rem;
+        flex-direction: column;
+        justify-content: center;
+        gap: 10em;
+    }
+
+    .description {
+        width: 100%;
+    }
+
+    .description h1 {
+        font-size: 3rem;
+    }
+
+    .description p {
+        font-size: 1.2rem;
+    }
+
+    .button {
+        width: 100%;
+    }
+
+    .fa-house {
+        top: 2rem;
+        left: auto;
+        right: 2rem;
+    }
+
+    .imagen img {
+        height: 500px;
+    }
+
+    .pq {
+        width: 4.2em;
+    }
+}
+
+@media (max-width: 450px) {
+    .imagen img {
+        height: 300px;
+        width: auto;
+    }
+}
